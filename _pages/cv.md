@@ -25,7 +25,7 @@ Work experience
   * Waseda University
   * Supervisor: Akio Inoue
   
-Research Interests
+Skills
 ======
 * Interferometer: Observations and data calibration of interferometer data such as ALMA and
 NOEMA. 
