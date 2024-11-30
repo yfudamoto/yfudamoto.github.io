@@ -21,7 +21,7 @@ repository               : "yfudamoto/yfudamoto.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yoshinobu Fudamoto"
   pronouns         : # example: "she/her"  
   bio              : "Observational study of distant galaxies"
