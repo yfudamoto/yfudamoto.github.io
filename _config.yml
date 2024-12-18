@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yoshinobu Fudamoto's Webpage"
+title                    : "Yoshinobu Fudamoto"
 title_separator          : "-"
 name                     : &name "Yoshinobu Fudamoto"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Yoshinobu Fudamoto"
   pronouns         : # example: "she/her"  
-  bio              : "Observational study of distant galaxies"
+  bio              : "Observational study of high-redshift galaxies using ALMA and JWST. I love great discoveries."
   location         : "Chiba"
   employer         : "Chiba Unierstity"
   uri              : # URL
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-7440-8832"
   semantic         : # URL
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Fudamoto+Y"
   researchgate     : # URL
   scopus           : # URL
 
