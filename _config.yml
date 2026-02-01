@@ -76,6 +76,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  refereed:
+    title: "Refereed"
+  preprint:
+    title: "Preprints"
   books:
     title: 'Books'
   manuscripts:
