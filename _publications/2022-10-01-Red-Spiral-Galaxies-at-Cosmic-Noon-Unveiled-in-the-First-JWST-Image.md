@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/2022-10-01-Red-Spiral-Galaxies-at-Cosmic-Noon-Unveiled-in-the-First-JWST-Image
 date: 2022-10-01
 venue: 'apjl'
-citation: ' Yoshinobu {Fudamoto},  Akio {Inoue},  Yuma {Sugahara}, &quot;Red Spiral Galaxies at Cosmic Noon Unveiled in the First JWST Image.&quot; apjl, 2022.'
+citation: ' Yoshinobu {Fudamoto}, Akio {Inoue}, Yuma {Sugahara}, &quot;Red Spiral Galaxies at Cosmic Noon Unveiled in the First JWST Image.&quot; apjl, 2022.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Red+Spiral+Galaxies+at+Cosmic+Noon+Unveiled+in+the+First+JWST+Image){:target="_blank"} for full citation
+Use [NASA ADS](https://ui.adsabs.harvard.edu/search/q=Red%20Spiral%20Galaxies%20at%20Cosmic%20Noon%20Unveiled%20in%20the%20First%20JWST%20Image){:target="_blank"} for full citation

@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/2025-04-01-ALMA-Observations-of-205um-Emission-lines-from-Star-Forming-Galaxies-at-zsim7
 date: 2025-04-01
 venue: 'arXiv e-prints'
-citation: ' Yoshinobu {Fudamoto},  Akio {Inoue},  Rychard {Bouwens},  Hanae {Inami},  Renske {Smit},  Dan {Stark},  Manuel {Aravena},  Andrea {Pallottini},  Takuya {Hashimoto},  Masamune {Oguri},  Rebecca {Bowler},  Elisabete {da Cunha},  Pratika {Dayal},  Andrea {Ferrara},  Seiji {Fujimoto},  Kasper {Heintz},  Alexander {Hygate},  Ivana {van Leeuwen},  Ilse {De Looze},  Lucie {Rowland},  Mauro {Stefanon},  Yuma {Sugahara},  Joris {Witstok},  Paul {van der Werf}, &quot;ALMA Observations of [OI]145um and [NII]205um Emission lines from Star-Forming Galaxies at $zsim7$.&quot; arXiv e-prints, 2025.'
+citation: ' Yoshinobu {Fudamoto}, Akio {Inoue}, Rychard {Bouwens}, &quot;ALMA Observations of [OI]145um and [NII]205um Emission lines from Star-Forming Galaxies at $zsim7$.&quot; arXiv e-prints, 2025.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=ALMA+Observations+of+[OI]145um+and+[NII]205um+Emission+lines+from+Star+Forming+Galaxies+at+$zsim7$){:target="_blank"} for full citation
+Use [NASA ADS](https://ui.adsabs.harvard.edu/search/q=ALMA%20Observations%20of%20%5BOI%5D145um%20and%20%5BNII%5D205um%20Emission%20lines%20from%20Star%20Forming%20Galaxies%20at%20%24zsim7%24){:target="_blank"} for full citation

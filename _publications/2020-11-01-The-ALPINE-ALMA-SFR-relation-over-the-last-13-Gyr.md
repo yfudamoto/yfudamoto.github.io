@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/2020-11-01-The-ALPINE-ALMA-SFR-relation-over-the-last-13-Gyr
 date: 2020-11-01
 venue: 'aap'
-citation: ' D. {Schaerer},  M. {Ginolfi},  M. {B{\&apos;e}thermin},  Y. {Fudamoto},  P. {Oesch},  O. {Le F{\`e}vre},  A. {Faisst},  P. {Capak},  P. {Cassata},  J. {Silverman},  Lin {Yan},  G. {Jones},  R. {Amorin},  S. {Bardelli},  M. {Boquien},  A. {Cimatti},  M. {Dessauges-Zavadsky},  M. {Giavalisco},  N. {Hathi},  S. {Fujimoto},  E. {Ibar},  A. {Koekemoer},  G. {Lagache},  B. {Lemaux},  F. {Loiacono},  R. {Maiolino},  D. {Narayanan},  L. {Morselli},  H. {M{\&apos;e}ndez-Hern{\`a}ndez},  F. {Pozzi},  D. {Riechers},  M. {Talia},  S. {Toft},  L. {Vallini},  D. {Vergani},  G. {Zamorani},  E. {Zucca}, &quot;The ALPINE-ALMA [C II] survey. Little to no evolution in the [C II]-SFR relation over the last 13 Gyr.&quot; aap, 2020.'
+citation: ' D. {Schaerer}, M. {Ginolfi}, M. {B{\&apos;e}thermin}, &quot;The ALPINE-ALMA [C II] survey. Little to no evolution in the [C II]-SFR relation over the last 13 Gyr.&quot; aap, 2020.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=The+ALPINE+ALMA+[C+II]+survey.+Little+to+no+evolution+in+the+[C+II]+SFR+relation+over+the+last+13+Gyr){:target="_blank"} for full citation
+Use [NASA ADS](https://ui.adsabs.harvard.edu/search/q=The%20ALPINE%20ALMA%20%5BC%20II%5D%20survey.%20Little%20to%20no%20evolution%20in%20the%20%5BC%20II%5D%20SFR%20relation%20over%20the%20last%2013%20Gyr){:target="_blank"} for full citation

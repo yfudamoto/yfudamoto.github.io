@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/2018-07-01-Probing-star-formation-and-ISM-properties-using-galaxy-disk-inclination-I-Evolution-in-disk-opacity-since-z-07
 date: 2018-07-01
 venue: 'aap'
-citation: ' S. {Leslie},  M. {Sargent},  E. {Schinnerer},  B. {Groves},  A. {van der Wel},  G. {Zamorani},  Y. {Fudamoto},  P. {Lang},  V. {Smol{\v{c}}i{\&apos;c}}, &quot;Probing star formation and ISM properties using galaxy disk inclination. I. Evolution in disk opacity since z 0.7.&quot; aap, 2018.'
+citation: ' S. {Leslie}, M. {Sargent}, E. {Schinnerer}, &quot;Probing star formation and ISM properties using galaxy disk inclination. I. Evolution in disk opacity since z 0.7.&quot; aap, 2018.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Probing+star+formation+and+ISM+properties+using+galaxy+disk+inclination.+I.+Evolution+in+disk+opacity+since+z+0.7){:target="_blank"} for full citation
+Use [NASA ADS](https://ui.adsabs.harvard.edu/search/q=Probing%20star%20formation%20and%20ISM%20properties%20using%20galaxy%20disk%20inclination.%20I.%20Evolution%20in%20disk%20opacity%20since%20z%200.7){:target="_blank"} for full citation

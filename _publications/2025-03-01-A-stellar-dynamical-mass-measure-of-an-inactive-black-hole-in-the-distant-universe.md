@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/2025-03-01-A-stellar-dynamical-mass-measure-of-an-inactive-black-hole-in-the-distant-universe
 date: 2025-03-01
 venue: 'arXiv e-prints'
-citation: ' Andrew {Newman},  Meng {Gu},  Sirio {Belli},  Richard {Ellis},  Sai {Gangula},  Jenny {Greene},  Jonelle {Walsh},  Sherry {Suyu},  Sebastian {Ertl},  Gabriel {Caminha},  Giovanni {Granata},  Claudio {Grillo},  Stefan {Schuldt},  Tania {Barone},  Simeon {Bird},  Karl {Glazebrook},  Marziye {Jafariyazani},  Mariska {Kriek},  Allison {Matthews},  Takahiro {Morishita},  Themiya {Nanayakkara},  Justin {Pierel},  Ana {Acebr\textbackslash&apos;on},  Pietro {Bergamini},  Sangjun {Cha},  Jose {Diego},  Nicholas {Foo},  Brenda {Frye},  Yoshinobu {Fudamoto},  M. {Jee},  Patrick {Kamieneski},  Anton {Koekemoer},  Asish {Meena},  Shun {Nishida},  Masamune {Oguri},  Piero {Rosati},  Adi {Zitrin}, &quot;A stellar dynamical mass measure of an inactive black hole in the distant universe.&quot; arXiv e-prints, 2025.'
+citation: ' Andrew {Newman}, Meng {Gu}, Sirio {Belli}, &quot;A stellar dynamical mass measure of an inactive black hole in the distant universe.&quot; arXiv e-prints, 2025.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=A+stellar+dynamical+mass+measure+of+an+inactive+black+hole+in+the+distant+universe){:target="_blank"} for full citation
+Use [NASA ADS](https://ui.adsabs.harvard.edu/search/q=A%20stellar%20dynamical%20mass%20measure%20of%20an%20inactive%20black%20hole%20in%20the%20distant%20universe){:target="_blank"} for full citation

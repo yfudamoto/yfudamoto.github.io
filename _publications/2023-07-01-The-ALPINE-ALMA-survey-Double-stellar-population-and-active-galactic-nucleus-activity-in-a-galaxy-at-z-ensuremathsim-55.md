@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/2023-07-01-The-ALPINE-ALMA-survey-Double-stellar-population-and-active-galactic-nucleus-activity-in-a-galaxy-at-z-ensuremathsim-55
 date: 2023-07-01
 venue: 'aap'
-citation: ' L. {Barchiesi},  M. {Dessauges-Zavadsky},  C. {Vignali},  F. {Pozzi},  R. {Marques-Chaves},  A. {Feltre},  A. {Faisst},  M. {B{\&apos;e}thermin},  P. {Cassata},  S. {Charlot},  Y. {Fudamoto},  M. {Ginolfi},  E. {Ibar},  G. {Jones},  M. {Romano},  D. {Schaerer},  L. {Vallini},  E. {Vanzella},  L. {Yan}, &quot;The ALPINE-ALMA [CII] survey: Double stellar population and active galactic nucleus activity in a galaxy at z ensuremathsim 5.5.&quot; aap, 2023.'
+citation: ' L. {Barchiesi}, M. {Dessauges-Zavadsky}, C. {Vignali}, &quot;The ALPINE-ALMA [CII] survey: Double stellar population and active galactic nucleus activity in a galaxy at z ensuremathsim 5.5.&quot; aap, 2023.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=The+ALPINE+ALMA+[CII]+survey:+Double+stellar+population+and+active+galactic+nucleus+activity+in+a+galaxy+at+z+ensuremathsim+5.5){:target="_blank"} for full citation
+Use [NASA ADS](https://ui.adsabs.harvard.edu/search/q=The%20ALPINE%20ALMA%20%5BCII%5D%20survey%3A%20Double%20stellar%20population%20and%20active%20galactic%20nucleus%20activity%20in%20a%20galaxy%20at%20z%20ensuremathsim%205.5){:target="_blank"} for full citation

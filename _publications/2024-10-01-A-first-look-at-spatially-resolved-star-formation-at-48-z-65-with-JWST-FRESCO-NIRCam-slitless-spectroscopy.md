@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/2024-10-01-A-first-look-at-spatially-resolved-star-formation-at-48-z-65-with-JWST-FRESCO-NIRCam-slitless-spectroscopy
 date: 2024-10-01
 venue: 'aap'
-citation: ' Jasleen {Matharu},  Erica {Nelson},  Gabriel {Brammer},  Pascal {Oesch},  Natalie {Allen},  Irene {Shivaei},  Rohan {Naidu},  John {Chisholm},  Alba {Covelo-Paz},  Yoshinobu {Fudamoto},  Emma {Giovinazzo},  Thomas {Herard-Demanche},  Josephine {Kerutt},  Ivan {Kramarenko},  Danilo {Marchesini},  Romain {Meyer},  Gonzalo {Prieto-Lyon},  Naveen {Reddy},  Marko {Shuntov},  Andrea {Weibel},  Stijn {Wuyts},  Mengyuan {Xiao}, &quot;A first look at spatially resolved star formation at 4.8 < z < 6.5 with JWST FRESCO NIRCam slitless spectroscopy.&quot; aap, 2024.'
+citation: ' Jasleen {Matharu}, Erica {Nelson}, Gabriel {Brammer}, &quot;A first look at spatially resolved star formation at 4.8 < z < 6.5 with JWST FRESCO NIRCam slitless spectroscopy.&quot; aap, 2024.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=A+first+look+at+spatially+resolved+star+formation+at+4.8+&lt;+z+&lt;+6.5+with+JWST+FRESCO+NIRCam+slitless+spectroscopy){:target="_blank"} for full citation
+Use [NASA ADS](https://ui.adsabs.harvard.edu/search/q=A%20first%20look%20at%20spatially%20resolved%20star%20formation%20at%204.8%20%3C%20z%20%3C%206.5%20with%20JWST%20FRESCO%20NIRCam%20slitless%20spectroscopy){:target="_blank"} for full citation

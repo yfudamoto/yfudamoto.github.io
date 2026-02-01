@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/2023-03-01-Updated-Measurements-of-158-ensuremathmum-and-Dust-Continuum-Emission-from-a-z-72-Galaxy
 date: 2023-03-01
 venue: 'apj'
-citation: ' Yi {Ren},  Yoshinobu {Fudamoto},  Akio {Inoue},  Yuma {Sugahara},  Tsuyoshi {Tokuoka},  Yoichi {Tamura},  Hiroshi {Matsuo},  Kotaro {Kohno},  Hideki {Umehata},  Takuya {Hashimoto},  Rychard {Bouwens},  Renske {Smit},  Nobunari {Kashikawa},  Takashi {Okamoto},  Takatoshi {Shibuya},  Ikkoh {Shimizu}, &quot;Updated Measurements of [O III] 88 ensuremathmum, [C II] 158 ensuremathmum, and Dust Continuum Emission from a z = 7.2 Galaxy.&quot; apj, 2023.'
+citation: ' Yi {Ren}, Yoshinobu {Fudamoto}, Akio {Inoue}, &quot;Updated Measurements of [O III] 88 ensuremathmum, [C II] 158 ensuremathmum, and Dust Continuum Emission from a z = 7.2 Galaxy.&quot; apj, 2023.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Updated+Measurements+of+[O+III]+88+ensuremathmum,+[C+II]+158+ensuremathmum,+and+Dust+Continuum+Emission+from+a+z+=+7.2+Galaxy){:target="_blank"} for full citation
+Use [NASA ADS](https://ui.adsabs.harvard.edu/search/q=Updated%20Measurements%20of%20%5BO%20III%5D%2088%20ensuremathmum%2C%20%5BC%20II%5D%20158%20ensuremathmum%2C%20and%20Dust%20Continuum%20Emission%20from%20a%20z%20%3D%207.2%20Galaxy){:target="_blank"} for full citation

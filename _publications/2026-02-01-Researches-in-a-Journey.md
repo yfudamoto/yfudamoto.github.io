@@ -6,4 +6,4 @@ date: 2026-02-01
 venue: 'Astronomical Herald'
 citation: ' Yoshinobu {Fudamoto}, &quot;Researches in a Journey.&quot; Astronomical Herald, 2026.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Researches+in+a+Journey){:target="_blank"} for full citation
+Use [NASA ADS](https://ui.adsabs.harvard.edu/search/q=Researches%20in%20a%20Journey){:target="_blank"} for full citation

@@ -6,4 +6,4 @@ date: 2024-10-01
 venue: 'Astronomical Herald'
 citation: ' Yoshinobu {Fudamoto}, &quot;JWST Observations of Gravitationally Lensed Galaxies.&quot; Astronomical Herald, 2024.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=JWST+Observations+of+Gravitationally+Lensed+Galaxies){:target="_blank"} for full citation
+Use [NASA ADS](https://ui.adsabs.harvard.edu/search/q=JWST%20Observations%20of%20Gravitationally%20Lensed%20Galaxies){:target="_blank"} for full citation

@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/2021-05-01-The-ALMA-Spectroscopic-Survey-in-the-HUDF-A-Search-for-Emitters-at-6-ensuremathleq-z-ensuremathleq-8
 date: 2021-05-01
 venue: 'apj'
-citation: ' Bade {Uzgil},  Pascal {Oesch},  Fabian {Walter},  Manuel {Aravena},  Leindert {Boogaard},  Chris {Carilli},  Roberto {Decarli},  Tanio {D{\&apos;\i}az-Santos},  Yoshi {Fudamoto},  Hanae {Inami},  Rychard {Bouwens},  Paulo {Cortes},  Pierre {Cox},  Emmanuele {Daddi},  Jorge {Gonz{\&apos;a}lez-L{\&apos;o}pez},  Ivo {Labbe},  Gerg{\&quot;o} {Popping},  Dominik {Riechers},  Mauro {Stefanon},  Paul {Van der Werf},  Axel {Weiss}, &quot;The ALMA Spectroscopic Survey in the HUDF: A Search for [C II] Emitters at 6 ensuremathleq z ensuremathleq 8.&quot; apj, 2021.'
+citation: ' Bade {Uzgil}, Pascal {Oesch}, Fabian {Walter}, &quot;The ALMA Spectroscopic Survey in the HUDF: A Search for [C II] Emitters at 6 ensuremathleq z ensuremathleq 8.&quot; apj, 2021.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=The+ALMA+Spectroscopic+Survey+in+the+HUDF:+A+Search+for+[C+II]+Emitters+at+6+ensuremathleq+z+ensuremathleq+8){:target="_blank"} for full citation
+Use [NASA ADS](https://ui.adsabs.harvard.edu/search/q=The%20ALMA%20Spectroscopic%20Survey%20in%20the%20HUDF%3A%20A%20Search%20for%20%5BC%20II%5D%20Emitters%20at%206%20ensuremathleq%20z%20ensuremathleq%208){:target="_blank"} for full citation

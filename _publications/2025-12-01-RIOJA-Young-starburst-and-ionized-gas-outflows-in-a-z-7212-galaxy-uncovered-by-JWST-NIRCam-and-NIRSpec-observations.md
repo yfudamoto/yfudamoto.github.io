@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/2025-12-01-RIOJA-Young-starburst-and-ionized-gas-outflows-in-a-z-7212-galaxy-uncovered-by-JWST-NIRCam-and-NIRSpec-observations
 date: 2025-12-01
 venue: 'mnras'
-citation: ' Yi {Ren},  Akio {Inoue},  Javier {{\&apos;A}lvarez-M{\&apos;a}rquez},  Takuya {Hashimoto},  Luis {Colina},  Yuma {Sugahara},  Luca {Costantin},  Ken {Mawatari},  Yoshinobu {Fudamoto},  Santiago {Arribas},  Alejandro {G{\&apos;o}mez},  Daniel {Ceverino},  Yurina {Nakazato},  Masato {Hagimoto},  Mitsutaka {Usui},  Rui {Marques-Chaves},  Hiroshi {Matsuo},  Takeshi {Hashigaya},  Wataru {Osone},  Carmen {Blanco-Prieto},  Yoichi {Tamura},  Naoki {Yoshida},  Tom {Bakx},  Miguel {Pereira-Santaella}, &quot;RIOJA. Young starburst and ionized gas outflows in a z = 7.212 galaxy uncovered by JWST NIRCam and NIRSpec observations.&quot; mnras, 2025.'
+citation: ' Yi {Ren}, Akio {Inoue}, Javier {{\&apos;A}lvarez-M{\&apos;a}rquez}, &quot;RIOJA. Young starburst and ionized gas outflows in a z = 7.212 galaxy uncovered by JWST NIRCam and NIRSpec observations.&quot; mnras, 2025.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=RIOJA.+Young+starburst+and+ionized+gas+outflows+in+a+z+=+7.212+galaxy+uncovered+by+JWST+NIRCam+and+NIRSpec+observations){:target="_blank"} for full citation
+Use [NASA ADS](https://ui.adsabs.harvard.edu/search/q=RIOJA.%20Young%20starburst%20and%20ionized%20gas%20outflows%20in%20a%20z%20%3D%207.212%20galaxy%20uncovered%20by%20JWST%20NIRCam%20and%20NIRSpec%20observations){:target="_blank"} for full citation

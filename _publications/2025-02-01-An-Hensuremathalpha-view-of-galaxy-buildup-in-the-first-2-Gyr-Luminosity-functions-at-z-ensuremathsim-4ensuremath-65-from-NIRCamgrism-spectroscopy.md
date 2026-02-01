@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/2025-02-01-An-Hensuremathalpha-view-of-galaxy-buildup-in-the-first-2-Gyr-Luminosity-functions-at-z-ensuremathsim-4ensuremath-65-from-NIRCamgrism-spectroscopy
 date: 2025-02-01
 venue: 'aap'
-citation: ' Alba {Covelo-Paz},  Emma {Giovinazzo},  Pascal {Oesch},  Romain {Meyer},  Andrea {Weibel},  Gabriel {Brammer},  Yoshinobu {Fudamoto},  Josephine {Kerutt},  Jamie {Lin},  Jasleen {Matharu},  Rohan {Naidu},  Anna {Velichko},  Victoria {Bollo},  Rychard {Bouwens},  John {Chisholm},  Garth {Illingworth},  Ivan {Kramarenko},  Daniel {Magee},  Michael {Maseda},  Jorryt {Matthee},  Erica {Nelson},  Naveen {Reddy},  Daniel {Schaerer},  Mauro {Stefanon},  Mengyuan {Xiao}, &quot;An Hensuremathalpha view of galaxy buildup in the first 2 Gyr: Luminosity functions at z ensuremathsim 4ensuremath-6.5 from NIRCam/grism spectroscopy.&quot; aap, 2025.'
+citation: ' Alba {Covelo-Paz}, Emma {Giovinazzo}, Pascal {Oesch}, &quot;An Hensuremathalpha view of galaxy buildup in the first 2 Gyr: Luminosity functions at z ensuremathsim 4ensuremath-6.5 from NIRCam/grism spectroscopy.&quot; aap, 2025.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=An+Hensuremathalpha+view+of+galaxy+buildup+in+the+first+2+Gyr:+Luminosity+functions+at+z+ensuremathsim+4ensuremath+6.5+from+NIRCam/grism+spectroscopy){:target="_blank"} for full citation
+Use [NASA ADS](https://ui.adsabs.harvard.edu/search/q=An%20Hensuremathalpha%20view%20of%20galaxy%20buildup%20in%20the%20first%202%20Gyr%3A%20Luminosity%20functions%20at%20z%20ensuremathsim%204ensuremath%206.5%20from%20NIRCam/grism%20spectroscopy){:target="_blank"} for full citation
