@@ -1,0 +1,9 @@
+---
+title: "JWST and ALMA Multiple-line Study in and around a Galaxy at z = 8.496: Optical to Far-Infrared Line Ratios and the Onset of an Outflow Promoting Ionizing Photon Escape"
+collection: publications
+permalink: /publication/2024-04-01-JWST-and-ALMA-Multiple-line-Study-in-and-around-a-Galaxy-at-z-8496-Optical-to-Far-Infrared-Line-Ratios-and-the-Onset-of-an-Outflow-Promoting-Ionizing-Photon-Escape
+date: 2024-04-01
+venue: 'apj'
+citation: ' Seiji {Fujimoto},  Masami {Ouchi},  Kimihiko {Nakajima},  Yuichi {Harikane},  Yuki {Isobe},  Gabriel {Brammer},  Masamune {Oguri},  Clara {Gim{\&apos;e}nez-Arteaga},  Kasper {Heintz},  Vasily {Kokorev},  Franz {Bauer},  Andrea {Ferrara},  Takashi {Kojima},  Claudia {Lagos},  Sommovigo {Laura},  Daniel {Schaerer},  Kazuhiro {Shimasaku},  Bunyo {Hatsukade},  Kotaro {Kohno},  Fengwu {Sun},  Francesco {Valentino},  Darach {Watson},  Yoshinobu {Fudamoto},  Akio {Inoue},  Jorge {Gonz{\&apos;a}lez-L{\&apos;o}pez},  Anton {Koekemoer},  Kirsten {Knudsen},  Minju {Lee},  Georgios {Magdis},  Johan {Richard},  Victoria {Strait},  Yuma {Sugahara},  Yoichi {Tamura},  Sune {Toft},  Hideki {Umehata},  Gregory {Walth}, &quot;JWST and ALMA Multiple-line Study in and around a Galaxy at z = 8.496: Optical to Far-Infrared Line Ratios and the Onset of an Outflow Promoting Ionizing Photon Escape.&quot; apj, 2024.'
+---
+Use [Google Scholar](https://scholar.google.com/scholar?q=JWST+and+ALMA+Multiple+line+Study+in+and+around+a+Galaxy+at+z+=+8.496:+Optical+to+Far+Infrared+Line+Ratios+and+the+Onset+of+an+Outflow+Promoting+Ionizing+Photon+Escape){:target="_blank"} for full citation

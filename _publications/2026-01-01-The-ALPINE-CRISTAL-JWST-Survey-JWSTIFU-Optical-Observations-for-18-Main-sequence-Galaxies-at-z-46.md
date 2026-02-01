@@ -1,0 +1,9 @@
+---
+title: "The ALPINE-CRISTAL-JWST Survey: JWST/IFU Optical Observations for 18 Main-sequence Galaxies at z = 4─6"
+collection: publications
+permalink: /publication/2026-01-01-The-ALPINE-CRISTAL-JWST-Survey-JWSTIFU-Optical-Observations-for-18-Main-sequence-Galaxies-at-z-46
+date: 2026-01-01
+venue: 'apjs'
+citation: ' A. {Faisst},  S. {Fujimoto},  A. {Tsujita},  W. {Wang},  N. {Nezhad},  F. {Loiacono},  H. {{\&quot;U}bler},  M. {B{\&apos;e}thermin},  P. {Cassata},  M. {Dessauges-Zavadsky},  R. {Herrera-Camus},  D. {Schaerer},  J. {Silverman},  L. {Yan},  M. {Aravena},  I. {De Looze},  N. {F{\&quot;o}rster Schreiber},  J. {Gonz{\&apos;a}lez-L{\&apos;o}pez},  J. {Spilker},  K. {Tadaki},  C. {Casey},  M. {Franco},  S. {Harish},  H. {McCracken},  J. {Kartaltepe},  A. {Koekemoer},  A. {Khostovan},  D. {Liu},  J. {Rhodes},  B. {Robertson},  R. {Amorin},  R. {Assef},  A. {Battisti},  J. {Birkin},  M. {Boquien},  E. {Da Cunha},  P. {Dam},  R. {Davies},  D. {G{\&apos;o}mez-Espinoza},  A. {Ferrara},  Y. {Fudamoto},  S. {Gillman},  M. {Ginolfi},  G. {Gozaliasl},  C. {Gruppioni},  A. {Hadi},  N. {Hathi},  E. {Ibar},  R. {Ikeda},  H. {Inami},  G. {Jones},  M. {Kohandel},  Y. {Li},  Y.-H. {Lin},  Z. {Liu},  L.-J. {Liu},  A. {Long},  G. {Magdis},  C. {Maraston},  C. {Martin},  I. {Mitsuhashi},  B. {Mobasher},  J. {Molina},  A. {Nanni},  M. {Palla},  A. {Pallottini},  F. {Pozzi},  M. {Relano},  W. {Ren},  D. {Riechers},  M. {Romano},  D. {Sanders},  P. {Sawant},  M. {Shuntov},  R. {Smit},  L. {Sommovigo},  M. {Talia},  L. {Vallini},  E. {Veraldi},  D. {Vergani},  A. {Vijayan},  V. {Villanueva},  G. {Zamorani}, &quot;The ALPINE-CRISTAL-JWST Survey: JWST/IFU Optical Observations for 18 Main-sequence Galaxies at z = 4─6.&quot; apjs, 2026.'
+---
+Use [Google Scholar](https://scholar.google.com/scholar?q=The+ALPINE+CRISTAL+JWST+Survey:+JWST/IFU+Optical+Observations+for+18+Main+sequence+Galaxies+at+z+=+4─6){:target="_blank"} for full citation

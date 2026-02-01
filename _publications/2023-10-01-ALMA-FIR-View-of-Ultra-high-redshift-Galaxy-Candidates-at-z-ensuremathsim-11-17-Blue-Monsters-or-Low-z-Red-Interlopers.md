@@ -1,0 +1,9 @@
+---
+title: "ALMA FIR View of Ultra-high-redshift Galaxy Candidates at z ensuremathsim 11-17: Blue Monsters or Low-z Red Interlopers?"
+collection: publications
+permalink: /publication/2023-10-01-ALMA-FIR-View-of-Ultra-high-redshift-Galaxy-Candidates-at-z-ensuremathsim-11-17-Blue-Monsters-or-Low-z-Red-Interlopers
+date: 2023-10-01
+venue: 'apj'
+citation: ' Seiji {Fujimoto},  Steven {Finkelstein},  Denis {Burgarella},  Chris {Carilli},  V{\&apos;e}ronique {Buat},  Caitlin {Casey},  Laure {Ciesla},  Sandro {Tacchella},  Jorge {Zavala},  Gabriel {Brammer},  Yoshinobu {Fudamoto},  Masami {Ouchi},  Francesco {Valentino},  M. {Cooper},  Mark {Dickinson},  Maximilien {Franco},  Mauro {Giavalisco},  Taylor {Hutchison},  Jeyhan {Kartaltepe},  Anton {Koekemoer},  Takashi {Kojima},  Rebecca {Larson},  E. {Murphy},  Casey {Papovich},  Pablo {P{\&apos;e}rez-Gonz{\&apos;a}lez},  Rachel {Somerville},  Ilsang {Yoon},  Stephen {Wilkins},  Hollis {Akins},  Ricardo {Amor{\&apos;\i}n},  Pablo {Arrabal Haro},  Micaela {Bagley},  Katherine {Chworowsky},  Nikko {Cleri},  Olivia {Cooper},  Luca {Costantin},  Emanuele {Daddi},  Henry {Ferguson},  Norman {Grogin},  E. {Jim{\&apos;e}nez-Andrade},  St{\&apos;e}phanie {Juneau},  Allison {Kirkpatrick},  Dale {Kocevski},  Aur{\&apos;e}lien {Le Bail},  Arianna {Long},  Ray {Lucas},  Benjamin {Magnelli},  Jed {McKinney},  Caitlin {Rose},  Lise-Marie {Seill{\&apos;e}},  Raymond {Simons},  Benjamin {Weiner},  L. {Yung}, &quot;ALMA FIR View of Ultra-high-redshift Galaxy Candidates at z ensuremathsim 11-17: Blue Monsters or Low-z Red Interlopers?.&quot; apj, 2023.'
+---
+Use [Google Scholar](https://scholar.google.com/scholar?q=ALMA+FIR+View+of+Ultra+high+redshift+Galaxy+Candidates+at+z+ensuremathsim+11+17:+Blue+Monsters+or+Low+z+Red+Interlopers?){:target="_blank"} for full citation

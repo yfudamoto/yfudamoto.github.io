@@ -1,0 +1,9 @@
+---
+title: "The UNCOVER Survey: First Release of Ultradeep JWST/NIRSpec PRISM Spectra for ensuremathsim700 Galaxies from z ensuremathsim 0.3textendash13 in A2744"
+collection: publications
+permalink: /publication/2025-03-01-The-UNCOVER-Survey-First-Release-of-Ultradeep-JWSTNIRSpec-PRISM-Spectra-for-ensuremathsim700-Galaxies-from-z-ensuremathsim-03textendash13-in-A2744
+date: 2025-03-01
+venue: 'apj'
+citation: ' Sedona {Price},  Rachel {Bezanson},  Ivo {Labbe},  Lukas {Furtak},  Anna {de Graaff},  Jenny {Greene},  Vasily {Kokorev},  David {Setton},  Katherine {Suess},  Gabriel {Brammer},  Sam {Cutler},  Joel {Leja},  Richard {Pan},  Bingjie {Wang},  John {Weaver},  Katherine {Whitaker},  Hakim {Atek},  Adam {Burgasser},  Iryna {Chemerynska},  Pratika {Dayal},  Robert {Feldmann},  Natascha {F{\&quot;o}rster Schreiber},  Yoshinobu {Fudamoto},  Seiji {Fujimoto},  Karl {Glazebrook},  Andy {Goulding},  Gourav {Khullar},  Mariska {Kriek},  Danilo {Marchesini},  Michael {Maseda},  Tim {Miller},  Adam {Muzzin},  Themiya {Nanayakkara},  Erica {Nelson},  Pascal {Oesch},  Heath {Shipley},  Renske {Smit},  Edward {Taylor},  Pieter {Dokkum},  Christina {Williams},  Adi {Zitrin}, &quot;The UNCOVER Survey: First Release of Ultradeep JWST/NIRSpec PRISM Spectra for ensuremathsim700 Galaxies from z ensuremathsim 0.3textendash13 in A2744.&quot; apj, 2025.'
+---
+Use [Google Scholar](https://scholar.google.com/scholar?q=The+UNCOVER+Survey:+First+Release+of+Ultradeep+JWST/NIRSpec+PRISM+Spectra+for+ensuremathsim700+Galaxies+from+z+ensuremathsim+0.3textendash13+in+A2744){:target="_blank"} for full citation

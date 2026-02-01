@@ -1,0 +1,9 @@
+---
+title: "Spatially Resolved Physical Properties of Young Star Clusters and Star-forming Clumps in the Brightest z>6 Galaxy, the Strongly Lensed Cosmic Spear at z=6.2"
+collection: publications
+permalink: /publication/2025-12-01-Spatially-Resolved-Physical-Properties-of-Young-Star-Clusters-and-Star-forming-Clumps-in-the-Brightest-z6-Galaxy-the-Strongly-Lensed-Cosmic-Spear-at-z62
+date: 2025-12-01
+venue: 'arXiv e-prints'
+citation: ' {Abdurro&apos;uf},  Dan {Coe},  Tom {Resseguier},  Calla {Murphy},  Xinfeng {Xu},  Angela {Adamo},  Namrata {Roy},  Alaina {Henry},  Vasily {Kokorev},  Gabriel {Brammer},  Seiji {Fujimoto},  Henry {Ferguson},  Amanda {Pagul},  Rogier {Windhorst},  Timothy {Heckman},  Jose {Diego},  Hollis {Akins},  Joseph {Allingham},  Ricardo {Amor{\&apos;\i}n},  Danielle {Berg},  Maru{\v{s}}a {Brada{\v{c}}},  Larry {Bradley},  Wenlei {Chen},  John {Chisholm},  Christopher {Conselice},  Pratika {Dayal},  Miroslava {Dessauges-Zavadsky},  Andreas {Faisst},  Steven {Finkelstein},  Yoshinobu {Fudamoto},  Lukas {Furtak},  Yuichi {Harikane},  Tiger {Hsiao},  Yolanda {Jimenez-Teja},  Anton {Koekemoer},  Rebecca {Larson},  Ray {Lucas},  Matteo {Messa},  Lamiya {Mowla},  Minami {Nakane},  Ga{\&quot;e}l {Noirot},  Richard {Pan},  Massimo {Pascale},  Johan {Richard},  Massimo {Ricotti},  Luke {Robbins},  Daniel {Schaerer},  Fengwu {Sun},  Eros {Vanzella},  Brian {Welch},  Chris {Willott},  Adi {Zitrin}, &quot;Spatially Resolved Physical Properties of Young Star Clusters and Star-forming Clumps in the Brightest z>6 Galaxy, the Strongly Lensed Cosmic Spear at z=6.2.&quot; arXiv e-prints, 2025.'
+---
+Use [Google Scholar](https://scholar.google.com/scholar?q=Spatially+Resolved+Physical+Properties+of+Young+Star+Clusters+and+Star+forming+Clumps+in+the+Brightest+z&gt;6+Galaxy,+the+Strongly+Lensed+Cosmic+Spear+at+z=6.2){:target="_blank"} for full citation

@@ -1,0 +1,9 @@
+---
+title: "A ``Black Hole Star&apos;&apos; Reveals the Remarkable Gas-Enshrouded Hearts of the Little Red Dots"
+collection: publications
+permalink: /publication/2025-03-01-A-Black-Hole-Star-Reveals-the-Remarkable-Gas-Enshrouded-Hearts-of-the-Little-Red-Dots
+date: 2025-03-01
+venue: 'arXiv e-prints'
+citation: ' Rohan {Naidu},  Jorryt {Matthee},  Harley {Katz},  Anna {de Graaff},  Pascal {Oesch},  Aaron {Smith},  Jenny {Greene},  Gabriel {Brammer},  Andrea {Weibel},  Raphael {Hviding},  John {Chisholm},  Ivo {Labb\textbackslash&apos;e},  Robert {Simcoe},  Callum {Witten},  Hakim {Atek},  Josephine {Baggen},  Sirio {Belli},  Rachel {Bezanson},  Leindert {Boogaard},  Sownak {Bose},  Alba {Covelo-Paz},  Pratika {Dayal},  Yoshinobu {Fudamoto},  Lukas {Furtak},  Emma {Giovinazzo},  Andy {Goulding},  Max {Gronke},  Kasper {Heintz},  Michaela {Hirschmann},  Garth {Illingworth},  Akio {Inoue},  Benjamin {Johnson},  Joel {Leja},  Ecaterina {Leonova},  Ian {McConachie},  Michael {Maseda},  Priyamvada {Natarajan},  Erica {Nelson},  David {Setton},  Irene {Shivaei},  David {Sobral},  Mauro {Stefanon},  Sandro {Tacchella},  Sune {Toft},  Alberto {Torralba},  Pieter {van Dokkum},  Arjen {van der Wel},  Marta {Volonteri},  Fabian {Walter},  Bingjie {Wang},  Darach {Watson}, &quot;A ``Black Hole Star&amp;apos;&amp;apos; Reveals the Remarkable Gas-Enshrouded Hearts of the Little Red Dots.&quot; arXiv e-prints, 2025.'
+---
+Use [Google Scholar](https://scholar.google.com/scholar?q=A+``Black+Hole+Star&#x27;&#x27;+Reveals+the+Remarkable+Gas+Enshrouded+Hearts+of+the+Little+Red+Dots){:target="_blank"} for full citation
