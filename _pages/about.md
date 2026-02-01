@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-This is a personal web page of Yoshinobu *Yoshi* Fudamoto
-
-I am an observational astronomer basing in Chiba University, Japan.
-Currently I am visiting the University of Arizona.
+Yoshinobu “Yoshi” Fudamoto
+Observational astronomer at Chiba University, exploring early galaxies with ALMA and JWST, and using gravitational lensing to resolve stars and structure in the distant Universe.onal astronomer basing in Chiba University, Japan.
 
 My research focus is observations of high redshift galaxies using ALMA and JWST.
 Also, I am interested in observations is individual lensed stars in distant galaxies.
+
+Keywords: High-redshift galaxies (z ≳ 6) • ISM & dust • Lensed stars/transients
