@@ -1,7 +1,7 @@
 ---
 title: "Lensed stars in the Dragon Arc"
-excerpt: "JWST imaging reveals individual stars magnified by gravitational lensing."
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio/DragonArc.jpg'>"
 collection: portfolio
-header:
-  teaser: /images/portfolio/DragonArc.jpg
 ---
+
+JWST imaging reveals individual stars magnified by gravitational lensing.
