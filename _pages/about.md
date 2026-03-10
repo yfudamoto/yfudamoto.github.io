@@ -1,10 +1,11 @@
 ---
 permalink: /
-title: "About me"
+title: About me
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
+banner_image: /images/about-banner.png
 ---
 
 Yoshinobu “Yoshi” Fudamoto
