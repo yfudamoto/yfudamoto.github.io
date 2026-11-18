@@ -22,3 +22,8 @@ Keywords: High-redshift galaxies (z ≳ 6) • ISM & dust • Lensed stars/trans
 [Talks](/talks/){: .btn .btn--primary }
 [CV](/cv/){: .btn .btn--primary }
 [Portfolio](/portfolio/){: .btn .btn--primary }
+
+## Media / メディア掲載
+
+- **2026-11-09** — [ジェームズ・ウェッブ宇宙望遠鏡が暴いた『見えない幽霊』〜偶然を大発見に変えた、型破りな研究アプローチ](https://www.cn.chiba-u.jp/next_261109/) (Chiba University, interview / 千葉大学 インタビュー記事)
+- **2026-04-22** — [令和8年度科学技術分野の文部科学大臣表彰 若手科学者賞をアルマ望遠鏡を用いた研究者が受賞](https://alma-telescope.jp/news/ysaward-202604.html) (ALMA Japan / 国立天文台 アルマ望遠鏡, award news / 受賞ニュース)
